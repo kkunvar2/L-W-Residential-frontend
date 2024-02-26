@@ -78,7 +78,6 @@ const SignupPage = () => {
 
     const handleSubmit = (event) => {
         event.preventDefault();
-        // Your form submission logic goes here
     };
 
     return (
